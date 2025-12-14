@@ -9,7 +9,7 @@ ESPHome external component Modbus TCP sensorite jaoks.
 
 ```yaml
 external_components:
-- source: github://mortenx/modbus-tcp-esphome
+- source: github://mortenx/modbus-tcp-esphome25
 components: [ modbus_tcp_sensor ]
 
 
